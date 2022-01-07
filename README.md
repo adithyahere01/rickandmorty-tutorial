@@ -1,1 +1,1 @@
-# furry-spork
+# Rick and morty api
